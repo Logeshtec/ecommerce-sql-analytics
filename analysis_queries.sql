@@ -1,0 +1,10 @@
+-- 1. Total revenue
+-- 2. Orders count by status
+-- 3. Top 10 selling products by quantity
+-- 4. Top 10 products by revenue
+-- 5. Monthly revenue for last 12 months
+-- 6. Daily orders and average order value (last 30 days)
+-- 7. Top customers by lifetime spend
+-- 8. New vs returning cohort (simplified)
+-- 9. RFM (recency, frequency, monetary) example
+-- 10. Retention: % customers placing order in month t+1 who ordered in month t (simplified)
